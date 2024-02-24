@@ -1,2 +1,2 @@
 # Only-Down
-A small game.
+my first game
